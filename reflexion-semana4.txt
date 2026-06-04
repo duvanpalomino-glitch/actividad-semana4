@@ -1,0 +1,8 @@
+Es importante para una comunidad usar herramientas tecnologicas usanso node.js nos
+permite crear servidore, eso ayuda a que puedan crear proyectos, alertas o avisos
+de forma instantanea ya que la comunicacion es mas facil y rapido y lo mas importante
+es que si hace algun tipo de encuesta en la comunidad queda un registro guardado
+de todas las interaciones que tuvieron en la plataforma y lo mas importante es que el
+sistema no se cae o se bloquea ya que puede tener varias coneciones al mismo tiempo 
+si en algun caso hay votaciones comunitarias en tiempo real o asambleas en la comunidad.
+
